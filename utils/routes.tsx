@@ -149,6 +149,12 @@ export const categorizedRoutes = [
         packageName: "@iarna/toml"
       },
       {
+        label: "to Typebox",
+        path: "/json-to-typebox",
+        packageUrl: "https://www.npmjs.com/package/json-to-zod",
+        packageName: "json-to-typebox"
+      },
+      {
         label: "to Zod Schema",
         path: "/json-to-zod",
         packageUrl: "https://www.npmjs.com/package/json-to-zod",

@@ -87,6 +87,7 @@
     "react-dropzone": "^11.0.1",
     "recast": "^0.20.5",
     "rust-keywords": "^1.1.0",
+    "schema2typebox": "^1.6.1",
     "sha1": "^1.1.1",
     "stringify-object": "^3.3.0",
     "svg-to-dataurl": "^1.0.0",
